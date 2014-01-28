@@ -1,0 +1,162 @@
+body{
+	width:1000px;
+	margin:15px auto;
+	background-color:#F0F8FF;
+}
+h1{
+	float: left;
+	border:2px solid black;
+	border-radius: 20px;
+	padding:.5em;
+	font-family: optima;
+	margin-right: 2em;
+	background-color: #008B8B;
+	margin-left: 1.5em;
+	margin-bottom:3em;
+	font-variant: white;
+}
+.nav {
+	display: inline;
+	width: 400px;
+	float: right;
+	margin-top: 8em;
+	margin-bottom: 3em;
+}
+.nav li{
+	display: inline;
+}
+.html{
+	border:2px solid black;
+	margin-right: 1em;
+	border-radius:10px ;
+	padding :.5em;	
+	text-decoration: none;
+	color:black;
+	background-color: #008B8B;
+	margin-left: 6em;
+}
+.css{
+	border:2px solid black;
+	margin-right: 1em;
+	border-radius:10px ;
+	padding :.5em;	
+	text-decoration: none;
+	color:black;
+	background-color: #008B8B;
+}
+.git{
+	border:2px solid black;
+	margin-right: 1em;
+	border-radius:10px ;
+	padding :.5em;	
+	text-decoration: none;
+	color:black;
+	background-color: #008B8B;
+}
+.header{
+	height: 175px;
+	border-bottom:6px solid grey;
+	background-color: lightgrey;
+}
+.section1{
+	font-family:"times new roman";
+	float:left;
+	width: 500px;
+	margin-top: 2em;
+	border-right:3px solid grey;
+	padding-right: 8em;
+	margin-left: 3em;
+	line-height: 1.5em;
+}
+.section2{
+	float:right;
+	margin-top:10em;
+	width:300px;
+}
+.section3{
+	float:right;
+	margin-top: 15em;
+	width:300px;
+}
+.footer{
+	
+	margin-top:3em;
+	margin-bottom: 3em;
+	width:964px;
+	float:right;
+	text-align: right;
+	border-top: 6px solid grey;
+	padding-top: 1em;
+	background-color:lightgrey;
+	padding:1em;
+}
+img{
+	float:left;
+	margin-top: .3em;
+	margin-right:.5em;
+}
+.def{
+	font-weight: bold;
+}
+.list{
+	border:2px solid black;
+	border-radius:10px ;
+	padding :.5em;
+	background-color: #008B8B;
+	padding-right: 1em;
+	padding-left: 1em;
+}
+h2{
+	float: left;
+	border:2px solid black;
+	border-radius: 20px;
+	padding:.5em;
+	font-family: optima;
+	margin-right: 2em;
+	background-color: #008B8B;
+	margin-left: 3em;
+	margin-top: 3em;
+}
+.homepage{
+	float:right;
+	text-align: right;
+	margin-top:10em;
+	border:2px solid black;
+	margin-right: 1em;
+	border-radius:10px ;
+	padding :.5em;	
+	text-decoration: none;
+	color:black;
+	background-color: white;
+}	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
